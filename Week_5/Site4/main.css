@@ -1,0 +1,17 @@
+body{
+    background-color:whitesmoke;
+}
+h1{
+    font-family: fantasy;
+    color:skyblue
+}
+
+h2{
+   font-family: sans-serif;
+   color:firebrick
+}
+
+p{
+    font-family: inherit;
+    color:teal
+}

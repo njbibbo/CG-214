@@ -1,0 +1,19 @@
+html {
+    background-color:lightgray;
+    background-image:url(bgr.jpg);
+    font-family: fantasy;
+    color: white;
+    @font-face{
+        font-family: roadway;
+        src: url(roadway/ROADWAY_.ttf);
+    
+
+    
+}
+}
+
+body {
+    font-size: 12pt;
+    margin: 1.6in 1.1in 1.1in;
+        
+}

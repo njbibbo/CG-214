@@ -1,0 +1,32 @@
+html {
+    background-color:whitesmoke;
+    font-family: fantasy;
+    color: black;
+    @font-face{
+        font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    
+}
+        
+    }
+
+body {
+    font-size: 12pt;
+    margin: 0.0in 0.2in 0.5in 0.5in;
+        
+}
+
+div{
+    
+	
+}
+
+#header{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+
+}
+
